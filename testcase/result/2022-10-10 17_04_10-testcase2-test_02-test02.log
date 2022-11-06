@@ -1,0 +1,5 @@
+def test02():
+>       assert 1==2
+E       assert 1 == 2
+
+testcase2\test_02.py:8: AssertionError

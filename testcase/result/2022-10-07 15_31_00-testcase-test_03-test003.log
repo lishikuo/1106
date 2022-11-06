@@ -1,0 +1,5 @@
+def test003():
+>       assert 3==4
+E       assert 3 == 4
+
+testcase\test_03.py:14: AssertionError
