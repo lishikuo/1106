@@ -45,3 +45,6 @@ if __name__ == "__main__":
     print(chepiao(26,14))
     print(fib(30))
 
+
+
+
