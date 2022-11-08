@@ -43,5 +43,5 @@ def fib(n):
 
 if __name__ == "__main__":
     print(chepiao(26,14))
-    print(fib(20))
+    print(fib(26))
 
